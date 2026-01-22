@@ -1,0 +1,2 @@
+name = "mukul"
+print (name)
