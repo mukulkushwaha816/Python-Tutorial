@@ -11,7 +11,3 @@
 
 #stop argument
 #print("mukul"[:3])
-
-
-
-print("mukul"[0:5:2])
