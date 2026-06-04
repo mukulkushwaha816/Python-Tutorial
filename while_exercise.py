@@ -1,3 +1,4 @@
+#sum of n natural numbers ask a user for natural (n) print total from 1 to n ?
 n = input ("enter a number:")
 n = int(n)
 total = 0 
