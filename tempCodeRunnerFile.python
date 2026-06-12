@@ -1,2 +1,0 @@
-name,age = "mukul","20"
-pirnt("hello" + name + ",your agr is " + age)

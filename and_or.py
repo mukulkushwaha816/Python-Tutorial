@@ -1,6 +1,6 @@
-name = 'abc'
-age = 19
-if name =='abc' and age == 19:
-    print("condition true")
+name = 'astha'
+age = 29
+if name =='astha' and age == 29:
+    print("condition True")
 else:
-    print("condition false")
+    print("condition False")
