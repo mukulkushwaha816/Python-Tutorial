@@ -4,7 +4,7 @@
 #  print(last_char("mukul kushwaha"))
 
 
-def odd_even(num):
+def odd_even(num: int):
     if num % 2 == 0:
         return "even"
     else:
