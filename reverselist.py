@@ -13,7 +13,7 @@
 
 #or
  
-def reverse_list (l):
+def reverse_list(l):
     r_list = []
     for i in range (len(l)):
         popped_item = l.pop()
